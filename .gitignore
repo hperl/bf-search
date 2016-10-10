@@ -1,0 +1,12 @@
+CMakeCache.txt
+CMakeFiles/**
+CMakeScripts/**
+*.cmake
+Makefile
+Testing/**
+bloom_search.build
+bloomfiltersearch.xcodeproj/**
+chromosomes/**
+web2
+build/**
+xcode/**
